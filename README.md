@@ -112,6 +112,10 @@ sbstck-dl download --url https://example.substack.com --cookie_name substack.sid
 
 - [wemoveon2](https://github.com/wemoveon2) and [lenzj](https://github.com/lenzj) for the discussion and help implementing the support for private newsletters
 
+## Contact
+
+For any issues/suggestions check the [Issues](https://github.com/alexferrari88/sbstck-dl/issues) tab. For all other requests (e.g. you want me to create something custom made for you, do some scraping for you, etc.), you can reach out on [X](https://x.com/theAlexFerrari) or [LinkedIn](https://www.linkedin.com/in/arferrari1/).
+
 ## TODO
 
 - [x] Improve retry logic
